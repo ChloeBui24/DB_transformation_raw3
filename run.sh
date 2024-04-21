@@ -1,1 +1,1 @@
-psql $DATABASE_URL -f clean.sql
+psql $DATABASE_URL -f clean3.sql
